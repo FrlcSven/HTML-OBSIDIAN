@@ -330,6 +330,7 @@ Tulis opini Anda seputar isu terkini di Kompasiana.com
 ```
 
 ### Hasil
+
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20align1.png?raw=true)
 
 ## Komentar
@@ -368,6 +369,7 @@ html
 ```
 
 ### Hasil
+
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20komentar.png?raw=true)
 
 
@@ -422,6 +424,8 @@ List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesua
 </html>
 ```
 
+### Hasil
+
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20list.png?raw=true)
 
 
@@ -464,6 +468,7 @@ Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentuk
 
 
 ### Hasil
+
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20anchor.png?raw=true)
 
 
@@ -504,6 +509,7 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 </html>
 ```
 
+### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20gambar.png?raw=true)
 
@@ -539,6 +545,7 @@ misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampil
 
 
 ### Hasil
+
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20video.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas :
@@ -549,6 +556,7 @@ Berikut adalah letak gambar yang dimuat website diatas :
 Di HTML, tag `<audio>` digunakan untuk menyematkan dan memainkan file audio di halaman web. Tag ini memungkinkan pengembang web menyertakan file audio langsung di dalam dokumen HTML, memungkinkan pemutaran langsung di halaman tanpa perlu mengarahkan pengguna ke halaman terpisah atau menggunakan pemutar audio eksternal. di dalam tag `<audio>` juga memiliki atribut yaitu `src` ,  `controls` , `type` yang memiliki fungsi masing masing.
 
 Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian fitur HTML5 untuk menampilkan audio asli di halaman web tanpa memerlukan Flash sebagaimana pada HTML versi 4. Yang penting untuk diatur pada tag ini adalah atribut src yang berfungsi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut controls agar pengguna dapat memutar dan menjeda media.
+
 
 ```html
 <!DOCTYPE html>
@@ -566,13 +574,13 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian 
 </html>
 ```
 
-![[p audio.png]]
+### Hasil
 
-![[h audio.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20audio.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas :
-![[web audio.png]]
 
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20audio.png?raw=true)
 
 
 
@@ -586,6 +594,7 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 
 - `<src>`, untuk mencari sumber halaman HTML atau web yang akan ditampilkan di dalam frame
 - `<width>` dan `<height>` untuk mengatur ukuran panjang dan lebar dari frame.
+
 
 ```html
 <!DOCTYPE html>
@@ -607,9 +616,10 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 </html>
 ```
 
-![[p iframe.png]]
 
-![[h iframe.png]]
+### Hasil
+
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20iframe.png?raw=true)
 
 
 
