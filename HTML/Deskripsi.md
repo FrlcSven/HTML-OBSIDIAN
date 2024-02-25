@@ -1,5 +1,4 @@
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/CONTOH%20RUMAH.jpg?raw=true)
-![[CONTOH RUMAH.jpg]]
 
 # Html
 Html itu seperti rangakain atau fondasi awal dari sebuah rumah atau web yang masih polos tanpa ada hiasan. 
