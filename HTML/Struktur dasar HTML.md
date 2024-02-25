@@ -377,6 +377,7 @@ List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesua
 >[!faq]- LIST
 >untuk menampilkan list dalam HTML dapat menggunakan tag `<li>`.... `</li>` namun perlu penyesuaian dengan menyisipkan elemen `<ol>`... `</ol>` atau `<ul>`... `</ul>` ke dalam elemen `<li>` tersebut untuk membuat daftar isi
 
+
 ```html
 <!DOCTYPE html>
 
@@ -421,9 +422,8 @@ List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesua
 </html>
 ```
 
-![[p list.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20list.png?raw=true)
 
-![[h list.png]]
 
 
 
@@ -434,6 +434,7 @@ Ling dapat ditemukan di hampir semua halaman web .Link/tautan memungkinkan sebua
 > Setiap tag `<a>` setidaknya memiliki sebuah atribut `<href>`.Dimana `<href>`berisi alamat yang dituju .`<href>` adalah singkatan dari hypertext reference
 
 Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentukan tempat untuk membuka dokumen yang di tautkan Atribut `target` memiliki beberapa nilai salah satunya `_blank` yang berfungsi untuk membuka tautan di tab baru.
+
 
 ```html
 <!DOCTYPE html>
@@ -461,9 +462,11 @@ Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentuk
 </html>
 ```
 
-![[p anhor.png]]
 
-![[h anchor.png]]
+### Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20anchor.png?raw=true)
+
+
 
 
 
@@ -501,19 +504,22 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 </html>
 ```
 
-![[p gambar.png]]
 
-![[h gambar.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20gambar.png?raw=true)
+
 
 Berikut adalah letak gambar yang dimuat website diatas :
 
-![[web gambar.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20gambar.png?raw=true)
+
+
 ### Video
 dalam HTML, video didefinisikan dengan tag `<video>`, tag `<video>` adalah tag yang digunakan untuk memasukkan video kedalam web, di tag `<video>` terdapat tag khusus yang dimana tag ini tidak memiliki tag penutup yaitu `<source>` yang Digunakan untuk menyediakan beberapa sumber video dan memberi browser pilihan format yang sesuai.
 
 Dalam tag `<video>` terdapat juga atribut   `controls` yang digunakan untuk Menambahkan kontrol pemutaran standar seperti play, pause, dan volume, dan juga di tag `<video>` ada atribut `width` dan `height` yang digunakan untuk mengatur ukuran video, pada versi HTML 5 standar satuan ukuran video adalah pixel, dan juga di dalam nya juga terdapat atribut `type` yang di gunakan untuk menentukan tipe MIME (Multipurpose Internet Mail Extensions) dari file video yang disematkan.
 
 misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampilkan video tersebut kita hanya perlu mengisi nama video beserta jenis ekstensi file video didalam tag `<source>`dan didalamnya atribut `src` terus juga didalam tag `<source>` kita beri juga didalamnya atribut `type` untuk menetukan tipe MIME(Multipurpose Internet Mail Extensions) di file video yang di sematkan.
+
 
 ```html
 <!DOCTYPE html>
@@ -531,14 +537,13 @@ misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampil
 </html>
 ```
 
-![[p video.png]]
 
-
-![[h video.png]]
+### Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20video.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas :
 
-![[web video.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20video.png?raw=true)
 
 ### Audio
 Di HTML, tag `<audio>` digunakan untuk menyematkan dan memainkan file audio di halaman web. Tag ini memungkinkan pengembang web menyertakan file audio langsung di dalam dokumen HTML, memungkinkan pemutaran langsung di halaman tanpa perlu mengarahkan pengguna ke halaman terpisah atau menggunakan pemutar audio eksternal. di dalam tag `<audio>` juga memiliki atribut yaitu `src` ,  `controls` , `type` yang memiliki fungsi masing masing.
