@@ -1250,7 +1250,7 @@ Contoh :
 </html>
 ```
 
-
+### Hasil
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20formulir.png?raw=true)
 
 
@@ -1306,7 +1306,7 @@ Contoh
   
 
 ### SPAN
-`<span>` adalah elemen yang digunakan untuk menerapkan gaya atau menentukan bagian teks tertentu tanpa mempengaruhi tata letak secara keseluruhan. Biasanya digunakan untuk menyorot atau menerapkan gaya pada teks atau elemen kecil lainnya di dalam sebuah kalimat.
+- `<span>` adalah elemen yang digunakan untuk menerapkan gaya atau menentukan bagian teks tertentu tanpa mempengaruhi tata letak secara keseluruhan. Biasanya digunakan untuk menyorot atau menerapkan gaya pada teks atau elemen kecil lainnya di dalam sebuah kalimat.
 
 Contoh
 
