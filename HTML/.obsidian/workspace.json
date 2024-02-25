@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d4621b1547af412a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a7113d1a0f3fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe11effe9a1cca2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Struktur dasar HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4ba4779efb9f08e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3283c928200a4626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b7047af9dd328f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6978798f0609e37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63826c6055b8cac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b716aed4255279c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c1085ab950b98c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5aa9f3c04599829",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Struktur dasar HTML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f18b171b0495f074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Struktur dasar HTML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed5ea5a950166aa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75ad2ebbcdaa4177",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Struktur dasar HTML.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false
+    }
+  },
+  "active": "fe11effe9a1cca2f",
+  "lastOpenFiles": [
+    "Pemograman web.md"
+  ]
+}
