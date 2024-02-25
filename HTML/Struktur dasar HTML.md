@@ -191,7 +191,6 @@ Contoh penggunaan heading dalam HTML:
 
 
 
-![[gambar heading.jpg]]
 
 ## Paragraf
 
@@ -263,9 +262,10 @@ Contoh penggunaan heading dalam HTML:
 </html>
 ```
 
-![[program hlp.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/program%20hlp.png?raw=true)
 
-![[hasil heading ,link dan paragraf.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/hasil%20heading%20%2Clink%20dan%20paragraf.png?raw=true)
+
 
 ## atibut align
 Atribut align digunakan untuk mengatur perataan teks pada balaman HTML Elemen `<p>` dapat menggunakan nilai atribut `align="left">`, akan menghasilkan paragraf dengan perataan teks di sebelah kiri Nilai atribut `align="right">` akan menghasilkan paragraf dengan perataan teks di sebelah kanan. Nilai atribut `align="center">`, akan menghasilkan paragraf dengan perataan teks di tengah. Dan nilai atribut `align="justify">`, akan menghasilkan paragraf dengan perataan teks pada sisi kiri dan sisi kanan
@@ -329,11 +329,7 @@ Tulis opini Anda seputar isu terkini di Kompasiana.com
 </html>
 ```
 
-
-![[p align.png]]
-
-![[align.png]]
-![[h align1.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20align1.png?raw=true)
 
 ## Komentar
 Html juga mempunyai tag khusus untuk komentar. Untuk membuat komentar di Html
