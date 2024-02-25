@@ -29,10 +29,9 @@
 </html>
 ```
 
-
-![[p perkenalan.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20perkenalan.png?raw=true)
 ### Hasil
-![[h perkenalan.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20anhor.png?raw=true)
 
 #### Penjelasan program
 - tag <!DOCTYPE html> memberitahukan web browser bahwa dokumen HTML adalah versi 5
