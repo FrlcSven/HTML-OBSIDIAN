@@ -277,6 +277,9 @@
 </html>
 ```
 
+## Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/H%20LIST%20BUNGA.png?raw=true)
+
 ## Analisis
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen untuk menunjukkan bahwa dokumen ini adalah dokumen HTML.
 
@@ -419,6 +422,9 @@
 
 </html>
 ```
+
+## Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/H%20FORM%20BUNGA.png?raw=true)
 
 ## Analisis
 
