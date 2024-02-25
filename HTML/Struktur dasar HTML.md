@@ -329,6 +329,7 @@ Tulis opini Anda seputar isu terkini di Kompasiana.com
 </html>
 ```
 
+### Hasil
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20align1.png?raw=true)
 
 ## Komentar
@@ -366,9 +367,10 @@ html
 </html>
 ```
 
-![[p komentar 1.png]]
+### Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20komentar.png?raw=true)
 
-![[h komentar1.png]]
+
 ## List
 List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesuatu. Dalam HTML yang digunakan untuk menampilkan daftar dari sesuatu. Dalam Html tag list terdiri dari dua jenis ol ordered list (berurutan) dan ul unordered list (tidak berurutan) . Ordered list akan di tampilkan dengan angka atau huruf sedangkan unordered list dengan bulatan atau kotak ataupun simbol lainnya
 
