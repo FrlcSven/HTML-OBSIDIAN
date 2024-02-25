@@ -63,11 +63,10 @@
 
 </html>
 ```
-
-![[p insta.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20insta.png?raw=true)
 
 ### Hasil
-![[h insta.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20insta.png?raw=true)
 
 # Anatomy elemen
 ## Penejelasan program
