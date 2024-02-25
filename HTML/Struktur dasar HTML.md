@@ -690,9 +690,9 @@ Contoh:
 </html>
 ```
 
-![[p tabel.png]]
+### Hasil
 
-![[h tabel .png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel%20.png?raw=true)
 
 >[!Faq]- TABEL
 > Perhatikan bahwa pada tag `<table>` terdapat sebuah atribut `border`. Atribut `border` digunakan untuk memberikan nilai garis tepi dari tabel. Nilai ini dalam ukuran pixel. `border="1"`, berarti kita mengistruksikan kepada web browser bahwa tabel tersebut akan memiliki garis tepi sebesar 1 pixel. Jika tidak ditambahkan, secara default tabel tidak memiliki garis tepi.
@@ -785,9 +785,9 @@ Contoh:
 </html>
 ```
 
-![[p tabel1.png]]
+### Hasil
 
-![[h tabel1.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel1.png?raw=true)
 
 
 >[!Faq]- TABEL
@@ -795,6 +795,7 @@ Contoh:
 
 ### Tabel Hari dan Bulan
 #### Struktur
+
 ```
 <!DOCTYPE html>
 
@@ -905,10 +906,11 @@ Program di atas adalah representasi tabel menggunakan HTML. Berikut adalah anali
 
 
 #### Contoh
-![[p tabel hari.png]]
+
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20tabel%20hari.png?raw=true)
 
 #### Hasil
-![[h tabel hari.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel%20hari.png?raw=true)
 
 #### Kesimpulan
 1. Tabel terdiri dari dua baris (`<tr>`).
@@ -920,6 +922,7 @@ Dengan menggunakan atribut `colspan` dan `rowspan`, program ini menciptakan tata
 
 ### Tabel Nama
 #### Struktur
+
 ```
 <!DOCTYPE html>
 
@@ -1015,10 +1018,10 @@ Dengan menggunakan atribut `colspan` dan `rowspan`, program ini menciptakan tata
 
 Program ini menciptakan tabel dengan dua baris dan tiga kolom, menggunakan atribut khusus untuk mengatur tata letak, warna, lebar, dan tinggi dari sel-sel dalam tabel.
 #### Contoh
-![[p nama,sklh.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20nama%2Csklh.png?raw=true)
 
 #### Hasil
-![[h nama,sklh.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20nama%2Csklh.png?raw=true)
 
 #### Kesimpulan
 1. Tabel terdiri dari dua baris (`<tr>`).
@@ -1246,15 +1249,9 @@ Contoh :
 
 </html>
 ```
-![[p form 1.png]]
 
-![[p form 2.png]]
 
-![[p form 3.png]]
-
-![[p form 4.png]]
-
-![[h formulir.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20formulir.png?raw=true)
 
 
 Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
