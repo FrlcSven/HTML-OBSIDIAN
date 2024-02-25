@@ -73,6 +73,9 @@
 </html>
 ```
 
+## Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/H%20INDEX%20BUNGA.png?raw=true)
+
 ## Analisis
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen untuk menunjukkan bahwa dokumen ini adalah dokumen HTML.
