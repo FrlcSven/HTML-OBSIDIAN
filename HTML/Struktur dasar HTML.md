@@ -68,17 +68,6 @@
 ### Hasil
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20insta.png?raw=true)
 
-# Anatomy elemen
-Anatomi elemen HTML merujuk pada struktur dasar atau komponen-komponen yang membentuk suatu elemen dalam HTML. Anatomi ini mencakup beberapa elemen utama seperti tag pembuka, tag penutup, atribut tag, isi/konten tag, dan tag dasar.
-
-Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingga ke tag penutup Elemen HTML secara garis besar terdiri atas tiga bagian yaitu tag pembuka konten/isi.
-
-![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20insta.png?raw=true)
-
-![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20insta.png?raw=true)
-
-
-
 - tag `<a>` adalah elemen dasar untuk membuat link di HTML dan termasuk di tag pembuka
 - `herf`= adalah nama atribut yang menghubungkan antara halaman web.
 - `https://www.instagram.com` atribut yang digunakan untuk mengakses subuah link. Isi konten itu untuk masuk ke URL/link yang sudah kiita buat di atrbut href yaitu klik link.
@@ -91,6 +80,13 @@ Contoh: `<p>` menandakan awal dari paragraf.
 - Tag Penutup (`</tag>`)
 Menandakan akhir dari suatu elemen HTML yang telah dibuka dengan tag pembuka.
 Contoh: `</p>` menandakan akhir dari paragraf yang telah dibuka dengan `<p>`.
+
+
+# Anatomy elemen
+Anatomi elemen HTML merujuk pada struktur dasar atau komponen-komponen yang membentuk suatu elemen dalam HTML. Anatomi ini mencakup beberapa elemen utama seperti tag pembuka, tag penutup, atribut tag, isi/konten tag, dan tag dasar.
+
+Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingga ke tag penutup Elemen HTML secara garis besar terdiri atas tiga bagian yaitu tag pembuka konten/isi.
+
 
 - Atribut Tag
 
@@ -159,6 +155,8 @@ Contoh penggunaan heading dalam HTML:
 
 6. `<h6>` Heading Level 6
 - Digunakan untuk judul tingkat kepentingan terendah dalam sebuah dokumen.
+
+### Program
 ```html
 <!DOCTYPE html>
 
@@ -213,6 +211,8 @@ Contoh penggunaan heading dalam HTML:
 - Membuat garis horizontal untuk konten.
 - Dengan menggunakan tag tersebut, Anda dapat mengatur tampilan dan struktur teks pada halaman web dengan berbagai gaya dan pemisahan visual.
 
+
+### Program
 ```html
 <!DOCTYPE html>
 
@@ -262,7 +262,7 @@ Contoh penggunaan heading dalam HTML:
 </html>
 ```
 
-![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/program%20hlp.png?raw=true)
+### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/hasil%20heading%20%2Clink%20dan%20paragraf.png?raw=true)
 
@@ -270,6 +270,8 @@ Contoh penggunaan heading dalam HTML:
 ## atibut align
 Atribut align digunakan untuk mengatur perataan teks pada balaman HTML Elemen `<p>` dapat menggunakan nilai atribut `align="left">`, akan menghasilkan paragraf dengan perataan teks di sebelah kiri Nilai atribut `align="right">` akan menghasilkan paragraf dengan perataan teks di sebelah kanan. Nilai atribut `align="center">`, akan menghasilkan paragraf dengan perataan teks di tengah. Dan nilai atribut `align="justify">`, akan menghasilkan paragraf dengan perataan teks pada sisi kiri dan sisi kanan
 
+
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -344,6 +346,8 @@ html
     
     <p>Ini bukan komentar, dan akan tampil di browser</p>
 
+### Program
+
 ```html
 <!DOCTYPE html>
 
@@ -379,6 +383,7 @@ List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesua
 >[!faq]- LIST
 >untuk menampilkan list dalam HTML dapat menggunakan tag `<li>`.... `</li>` namun perlu penyesuaian dengan menyisipkan elemen `<ol>`... `</ol>` atau `<ul>`... `</ul>` ke dalam elemen `<li>` tersebut untuk membuat daftar isi
 
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -439,6 +444,7 @@ Ling dapat ditemukan di hampir semua halaman web .Link/tautan memungkinkan sebua
 
 Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentukan tempat untuk membuka dokumen yang di tautkan Atribut `target` memiliki beberapa nilai salah satunya `_blank` yang berfungsi untuk membuka tautan di tab baru.
 
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -489,6 +495,8 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 - misalnya dalam folder root terdapat file gambar bernama logo.png untuk menampilkan gambar tersebut kita hanya perlu mengisi nama gambar beserta jenis ekstensi file gambar ke dalam atribut `src` contoh` src="logo.png"`
 - untuk menampilkan gambar dari internet carilah link gambar yang akan di tampilkan lalu memasukkan dalam atribut `src` contohnya https://namasitus.com/gambar.jpg
 
+#### Program
+
 ```html
 <!DOCTYPE html>
 
@@ -509,7 +517,7 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 </html>
 ```
 
-### Hasil
+#### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20gambar.png?raw=true)
 
@@ -526,7 +534,7 @@ Dalam tag `<video>` terdapat juga atribut   `controls` yang digunakan untuk Mena
 
 misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampilkan video tersebut kita hanya perlu mengisi nama video beserta jenis ekstensi file video didalam tag `<source>`dan didalamnya atribut `src` terus juga didalam tag `<source>` kita beri juga didalamnya atribut `type` untuk menetukan tipe MIME(Multipurpose Internet Mail Extensions) di file video yang di sematkan.
 
-
+#### Program
 ```html
 <!DOCTYPE html>
 
@@ -544,7 +552,7 @@ misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampil
 ```
 
 
-### Hasil
+#### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20video.png?raw=true)
 
@@ -557,6 +565,7 @@ Di HTML, tag `<audio>` digunakan untuk menyematkan dan memainkan file audio di h
 
 Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian fitur HTML5 untuk menampilkan audio asli di halaman web tanpa memerlukan Flash sebagaimana pada HTML versi 4. Yang penting untuk diatur pada tag ini adalah atribut src yang berfungsi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut controls agar pengguna dapat memutar dan menjeda media.
 
+#### Program
 
 ```html
 <!DOCTYPE html>
@@ -574,7 +583,7 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian 
 </html>
 ```
 
-### Hasil
+#### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20audio.png?raw=true)
 
@@ -595,6 +604,7 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 - `<src>`, untuk mencari sumber halaman HTML atau web yang akan ditampilkan di dalam frame
 - `<width>` dan `<height>` untuk mengatur ukuran panjang dan lebar dari frame.
 
+#### Program
 
 ```html
 <!DOCTYPE html>
@@ -617,7 +627,7 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 ```
 
 
-### Hasil
+#### Hasil
 
 ![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20iframe.png?raw=true)
 
