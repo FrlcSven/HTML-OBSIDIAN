@@ -29,10 +29,9 @@
 </html>
 ```
 
-
-![[p perkenalan.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20perkenalan.png?raw=true)
 ### Hasil
-![[h perkenalan.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20perkenalan.png?raw=true)
 
 #### Penjelasan program
 - tag <!DOCTYPE html> memberitahukan web browser bahwa dokumen HTML adalah versi 5
@@ -64,23 +63,10 @@
 
 </html>
 ```
-
-![[p insta.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20insta.png?raw=true)
 
 ### Hasil
-![[h insta.png]]
-
-# Anatomy elemen
-## Penejelasan program
-Anatomi elemen HTML merujuk pada struktur dasar atau komponen-komponen yang membentuk suatu elemen dalam HTML. Anatomi ini mencakup beberapa elemen utama seperti tag pembuka, tag penutup, atribut tag, isi/konten tag, dan tag dasar.
-
-Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingga ke tag penutup Elemen HTML secara garis besar terdiri atas tiga bagian yaitu tag pembuka konten/isi.
-
-![[p insta.png]]
-
-
-![[h insta.png]] 
-
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20insta.png?raw=true)
 
 - tag `<a>` adalah elemen dasar untuk membuat link di HTML dan termasuk di tag pembuka
 - `herf`= adalah nama atribut yang menghubungkan antara halaman web.
@@ -94,6 +80,13 @@ Contoh: `<p>` menandakan awal dari paragraf.
 - Tag Penutup (`</tag>`)
 Menandakan akhir dari suatu elemen HTML yang telah dibuka dengan tag pembuka.
 Contoh: `</p>` menandakan akhir dari paragraf yang telah dibuka dengan `<p>`.
+
+
+# Anatomy elemen
+Anatomi elemen HTML merujuk pada struktur dasar atau komponen-komponen yang membentuk suatu elemen dalam HTML. Anatomi ini mencakup beberapa elemen utama seperti tag pembuka, tag penutup, atribut tag, isi/konten tag, dan tag dasar.
+
+Elemen adalah suatu kesatuan dari sebuah tag yang dimulai dari tag pembuka hingga ke tag penutup Elemen HTML secara garis besar terdiri atas tiga bagian yaitu tag pembuka konten/isi.
+
 
 - Atribut Tag
 
@@ -162,6 +155,8 @@ Contoh penggunaan heading dalam HTML:
 
 6. `<h6>` Heading Level 6
 - Digunakan untuk judul tingkat kepentingan terendah dalam sebuah dokumen.
+
+### Program
 ```html
 <!DOCTYPE html>
 
@@ -194,7 +189,6 @@ Contoh penggunaan heading dalam HTML:
 
 
 
-![[gambar heading.jpg]]
 
 ## Paragraf
 
@@ -217,6 +211,8 @@ Contoh penggunaan heading dalam HTML:
 - Membuat garis horizontal untuk konten.
 - Dengan menggunakan tag tersebut, Anda dapat mengatur tampilan dan struktur teks pada halaman web dengan berbagai gaya dan pemisahan visual.
 
+
+### Program
 ```html
 <!DOCTYPE html>
 
@@ -266,13 +262,16 @@ Contoh penggunaan heading dalam HTML:
 </html>
 ```
 
-![[program hlp.png]]
+### Hasil
 
-![[hasil heading ,link dan paragraf.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/hasil%20heading%20%2Clink%20dan%20paragraf.png?raw=true)
+
 
 ## atibut align
 Atribut align digunakan untuk mengatur perataan teks pada balaman HTML Elemen `<p>` dapat menggunakan nilai atribut `align="left">`, akan menghasilkan paragraf dengan perataan teks di sebelah kiri Nilai atribut `align="right">` akan menghasilkan paragraf dengan perataan teks di sebelah kanan. Nilai atribut `align="center">`, akan menghasilkan paragraf dengan perataan teks di tengah. Dan nilai atribut `align="justify">`, akan menghasilkan paragraf dengan perataan teks pada sisi kiri dan sisi kanan
 
+
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -332,11 +331,9 @@ Tulis opini Anda seputar isu terkini di Kompasiana.com
 </html>
 ```
 
+### Hasil
 
-![[p align.png]]
-
-![[align.png]]
-![[h align1.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20align1.png?raw=true)
 
 ## Komentar
 Html juga mempunyai tag khusus untuk komentar. Untuk membuat komentar di Html
@@ -348,6 +345,8 @@ html
     <!-- Ini komentar, tidak akan tampil di browser -->
     
     <p>Ini bukan komentar, dan akan tampil di browser</p>
+
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -373,14 +372,18 @@ html
 </html>
 ```
 
-![[p komentar 1.png]]
+### Hasil
 
-![[h komentar1.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20komentar.png?raw=true)
+
+
 ## List
 List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesuatu. Dalam HTML yang digunakan untuk menampilkan daftar dari sesuatu. Dalam Html tag list terdiri dari dua jenis ol ordered list (berurutan) dan ul unordered list (tidak berurutan) . Ordered list akan di tampilkan dengan angka atau huruf sedangkan unordered list dengan bulatan atau kotak ataupun simbol lainnya
 
 >[!faq]- LIST
 >untuk menampilkan list dalam HTML dapat menggunakan tag `<li>`.... `</li>` namun perlu penyesuaian dengan menyisipkan elemen `<ol>`... `</ol>` atau `<ul>`... `</ul>` ke dalam elemen `<li>` tersebut untuk membuat daftar isi
+
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -426,9 +429,10 @@ List adalah fungsi dalam Html yang digunakan untuk menampilkan daftar dari sesua
 </html>
 ```
 
-![[p list.png]]
+### Hasil
 
-![[h list.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20list.png?raw=true)
+
 
 
 
@@ -439,6 +443,8 @@ Ling dapat ditemukan di hampir semua halaman web .Link/tautan memungkinkan sebua
 > Setiap tag `<a>` setidaknya memiliki sebuah atribut `<href>`.Dimana `<href>`berisi alamat yang dituju .`<href>` adalah singkatan dari hypertext reference
 
 Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentukan tempat untuk membuka dokumen yang di tautkan Atribut `target` memiliki beberapa nilai salah satunya `_blank` yang berfungsi untuk membuka tautan di tab baru.
+
+### Program
 
 ```html
 <!DOCTYPE html>
@@ -466,9 +472,12 @@ Atribut penting lainnya dari tag `<a>` adalah `target` . Atribut target menentuk
 </html>
 ```
 
-![[p anhor.png]]
 
-![[h anchor.png]]
+### Hasil
+
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20anchor.png?raw=true)
+
+
 
 
 
@@ -485,6 +494,8 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 
 - misalnya dalam folder root terdapat file gambar bernama logo.png untuk menampilkan gambar tersebut kita hanya perlu mengisi nama gambar beserta jenis ekstensi file gambar ke dalam atribut `src` contoh` src="logo.png"`
 - untuk menampilkan gambar dari internet carilah link gambar yang akan di tampilkan lalu memasukkan dalam atribut `src` contohnya https://namasitus.com/gambar.jpg
+
+#### Program
 
 ```html
 <!DOCTYPE html>
@@ -506,13 +517,16 @@ Dalam tag`<img>` terdapat juga atribut width dan height untuk mengatur ukuran ga
 </html>
 ```
 
-![[p gambar.png]]
+#### Hasil
 
-![[h gambar.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20gambar.png?raw=true)
+
 
 Berikut adalah letak gambar yang dimuat website diatas :
 
-![[web gambar.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20gambar.png?raw=true)
+
+
 ### Video
 dalam HTML, video didefinisikan dengan tag `<video>`, tag `<video>` adalah tag yang digunakan untuk memasukkan video kedalam web, di tag `<video>` terdapat tag khusus yang dimana tag ini tidak memiliki tag penutup yaitu `<source>` yang Digunakan untuk menyediakan beberapa sumber video dan memberi browser pilihan format yang sesuai.
 
@@ -520,6 +534,7 @@ Dalam tag `<video>` terdapat juga atribut   `controls` yang digunakan untuk Mena
 
 misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampilkan video tersebut kita hanya perlu mengisi nama video beserta jenis ekstensi file video didalam tag `<source>`dan didalamnya atribut `src` terus juga didalam tag `<source>` kita beri juga didalamnya atribut `type` untuk menetukan tipe MIME(Multipurpose Internet Mail Extensions) di file video yang di sematkan.
 
+#### Program
 ```html
 <!DOCTYPE html>
 
@@ -536,19 +551,21 @@ misalnya dalam folder root terdapat file video bernama video.mp4. untuk menampil
 </html>
 ```
 
-![[p video.png]]
 
+#### Hasil
 
-![[h video.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20video.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas :
 
-![[web video.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20video.png?raw=true)
 
 ### Audio
 Di HTML, tag `<audio>` digunakan untuk menyematkan dan memainkan file audio di halaman web. Tag ini memungkinkan pengembang web menyertakan file audio langsung di dalam dokumen HTML, memungkinkan pemutaran langsung di halaman tanpa perlu mengarahkan pengguna ke halaman terpisah atau menggunakan pemutar audio eksternal. di dalam tag `<audio>` juga memiliki atribut yaitu `src` ,  `controls` , `type` yang memiliki fungsi masing masing.
 
 Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian fitur HTML5 untuk menampilkan audio asli di halaman web tanpa memerlukan Flash sebagaimana pada HTML versi 4. Yang penting untuk diatur pada tag ini adalah atribut src yang berfungsi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut controls agar pengguna dapat memutar dan menjeda media.
+
+#### Program
 
 ```html
 <!DOCTYPE html>
@@ -566,13 +583,13 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian 
 </html>
 ```
 
-![[p audio.png]]
+#### Hasil
 
-![[h audio.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20audio.png?raw=true)
 
 Berikut adalah letak gambar yang dimuat website diatas :
-![[web audio.png]]
 
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/web%20audio.png?raw=true)
 
 
 
@@ -586,6 +603,8 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 
 - `<src>`, untuk mencari sumber halaman HTML atau web yang akan ditampilkan di dalam frame
 - `<width>` dan `<height>` untuk mengatur ukuran panjang dan lebar dari frame.
+
+#### Program
 
 ```html
 <!DOCTYPE html>
@@ -607,9 +626,10 @@ Dalam tag `<frame>` ada beberapa Atribut yang penting seperti :
 </html>
 ```
 
-![[p iframe.png]]
 
-![[h iframe.png]]
+#### Hasil
+
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20iframe.png?raw=true)
 
 
 
@@ -670,9 +690,9 @@ Contoh:
 </html>
 ```
 
-![[p tabel.png]]
+### Hasil
 
-![[h tabel .png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel%20.png?raw=true)
 
 >[!Faq]- TABEL
 > Perhatikan bahwa pada tag `<table>` terdapat sebuah atribut `border`. Atribut `border` digunakan untuk memberikan nilai garis tepi dari tabel. Nilai ini dalam ukuran pixel. `border="1"`, berarti kita mengistruksikan kepada web browser bahwa tabel tersebut akan memiliki garis tepi sebesar 1 pixel. Jika tidak ditambahkan, secara default tabel tidak memiliki garis tepi.
@@ -765,9 +785,9 @@ Contoh:
 </html>
 ```
 
-![[p tabel1.png]]
+### Hasil
 
-![[h tabel1.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel1.png?raw=true)
 
 
 >[!Faq]- TABEL
@@ -775,6 +795,7 @@ Contoh:
 
 ### Tabel Hari dan Bulan
 #### Struktur
+
 ```
 <!DOCTYPE html>
 
@@ -885,10 +906,11 @@ Program di atas adalah representasi tabel menggunakan HTML. Berikut adalah anali
 
 
 #### Contoh
-![[p tabel hari.png]]
+
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20tabel%20hari.png?raw=true)
 
 #### Hasil
-![[h tabel hari.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20tabel%20hari.png?raw=true)
 
 #### Kesimpulan
 1. Tabel terdiri dari dua baris (`<tr>`).
@@ -900,6 +922,7 @@ Dengan menggunakan atribut `colspan` dan `rowspan`, program ini menciptakan tata
 
 ### Tabel Nama
 #### Struktur
+
 ```
 <!DOCTYPE html>
 
@@ -995,10 +1018,10 @@ Dengan menggunakan atribut `colspan` dan `rowspan`, program ini menciptakan tata
 
 Program ini menciptakan tabel dengan dua baris dan tiga kolom, menggunakan atribut khusus untuk mengatur tata letak, warna, lebar, dan tinggi dari sel-sel dalam tabel.
 #### Contoh
-![[p nama,sklh.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/p%20nama%2Csklh.png?raw=true)
 
 #### Hasil
-![[h nama,sklh.png]]
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20nama%2Csklh.png?raw=true)
 
 #### Kesimpulan
 1. Tabel terdiri dari dua baris (`<tr>`).
@@ -1226,15 +1249,9 @@ Contoh :
 
 </html>
 ```
-![[p form 1.png]]
 
-![[p form 2.png]]
-
-![[p form 3.png]]
-
-![[p form 4.png]]
-
-![[h formulir.png]]
+### Hasil
+![alt text](https://github.com/FrlcSven/HTML-OBSIDIAN/blob/main/ASET%20HTML/h%20formulir.png?raw=true)
 
 
 Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
@@ -1289,7 +1306,7 @@ Contoh
   
 
 ### SPAN
-`<span>` adalah elemen yang digunakan untuk menerapkan gaya atau menentukan bagian teks tertentu tanpa mempengaruhi tata letak secara keseluruhan. Biasanya digunakan untuk menyorot atau menerapkan gaya pada teks atau elemen kecil lainnya di dalam sebuah kalimat.
+- `<span>` adalah elemen yang digunakan untuk menerapkan gaya atau menentukan bagian teks tertentu tanpa mempengaruhi tata letak secara keseluruhan. Biasanya digunakan untuk menyorot atau menerapkan gaya pada teks atau elemen kecil lainnya di dalam sebuah kalimat.
 
 Contoh
 
